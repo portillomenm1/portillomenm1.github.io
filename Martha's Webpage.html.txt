@@ -1,0 +1,63 @@
+<html>
+
+<head>
+
+                           <title>Martha Portillo, Course 101, Section, 2/4/25</title>
+
+</head>
+
+<body style=”background-color:pink;”>
+
+</body>
+
+</html>
+
+<p style=”font:bold 48px cursive:color:green:text-align:center;”> Welcome! This web page will be based on all about me! ;)</p>
+
+<hr/>
+
+<ul>
+
+<li>email:portillomenm1@montclair.edu</li> 
+
+<li>Education: Attend at Montclair State University, Majoring in Biology</li>
+
+<li>Some Interests: Nature, Health, Music, Travel, Food, Fitness, Action movies, Anime</li>
+
+<li>Hobbies: I love playing instruments, baking, and visit new food places I haven’t been to before</li>
+
+</ul>
+
+<img src=”https://www.freepik.com/premium-vector/cute-strawberry-dessert-kawaii-food-with-cute-rabbit-pink-elements_39925419.htm#fromView=keyword&page=1&position=8&uuid=d3d6df63-1af5-4ad4-8fdb-ed29e7ccb334&new_detail=true&query=Cute+Kawaii”/>
+
+<hr style=”border: 1px dotted yellow;”m/>
+
+ 
+
+<table align=”center” border=”1” width=”800”>
+
+<tr>
+
+<td>Place Holder</td>
+
+<td>Place Holder</td>
+
+</tr>
+
+<tr>
+
+<td>Place Holder</td>
+
+<td>Place Holder</td>
+
+</tr>
+
+</table>
+
+ 
+
+<a href=”https://poki.com/en/g/papas-freezeria”> Papa’s Freezeria games</a>
+
+<a href=”https://montclair.campuslabs.com/engage/events”>Montclair State University Engage</a>
+
+<a href=”https://www.coolmathgames.com/”> Coolmath Games</a>
